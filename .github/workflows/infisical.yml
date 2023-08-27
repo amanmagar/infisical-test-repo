@@ -1,0 +1,4 @@
+-   name: Install the infisical action
+    on: 
+        workflow_dispatch:
+                
